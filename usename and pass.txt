@@ -1,0 +1,5 @@
+username :aarti@gmail.com     pass:Aarti@123     	Candidate
+username :kartik@gmail.com    pass:Kartik@123  	 	Employeer
+username :v@gmail.com         pass:Varun@123		Candidate
+username :admin@gmail.com     pass:admin		Admin
+ 
